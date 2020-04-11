@@ -1,5 +1,6 @@
 # Machine-Lerning-Algorithm-Projects
- #Logistic Regression
+
+##Logistic Regression
 
 (i)- The first Model I build using Logistic Regression on the Titanic Survival. I have done following steps:
 Importing the Libraries(Numpy,pandas, many more)
